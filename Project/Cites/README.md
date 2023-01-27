@@ -11,4 +11,4 @@ https://web-s-ebscohost-com.msutexas.idm.oclc.org/ehost/pdfviewer/pdfviewer?vid=
 
 | Article Description | Link to Cite |
 | ------------------- | ------------ |
-| Flood Prediction    |[Flood Prediction] (./https://dl-acm-org.msutexas.idm.oclc.org/doi/pdf/10.1145/3516529.3516530)|
+| Flood Prediction    |[Flood Prediction] (https://dl-acm-org.msutexas.idm.oclc.org/doi/pdf/10.1145/3516529.3516530)|
